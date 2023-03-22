@@ -6,7 +6,7 @@ import (
 	"log"
 	"time"
 
-	sdk "github.com/Cyy92/Cloud-Init/go/pb"
+	sdk "github.com/Cyy92/Cloud-Init/go/apps/pb"
 	"google.golang.org/grpc"
 )
 

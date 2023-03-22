@@ -20,7 +20,7 @@ import (
 	"google.golang.org/grpc/reflection"
 	"google.golang.org/grpc/status"
 
-	"github.com/Cyy92/Cloud-Init/go/pb"
+	"github.com/Cyy92/Cloud-Init/go/apps/pb"
 )
 
 type FxWatcher struct {

@@ -1,6 +1,6 @@
 package main
 
-import sdk "github.com/Cyy92/Cloud-Init/go/pb"
+import sdk "github.com/Cyy92/Cloud-Init/go/apps/pb"
 
 //import mesh "github.com/keti-openfx/openfx/executor/go/mesh"
 
