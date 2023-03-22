@@ -1,0 +1,5 @@
+runtimes:
+  go:
+    dir: go
+    handler:
+      name: Handler
