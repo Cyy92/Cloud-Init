@@ -1,4 +1,4 @@
-module github.com/Cyy92/Cloud-Init/vendor/go
+module github.com/Cyy92/Cloud-Init/vendor/go/pb
 
 go 1.20
 
