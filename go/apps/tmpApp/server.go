@@ -15,7 +15,7 @@ import (
 
 	"golang.org/x/net/context"
 
-	"github.com/Cyy92/Cloud-Init/vendor/go/pb"
+	"github.com/Cyy92/Cloud-Init/dep/go/pb"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/reflection"
